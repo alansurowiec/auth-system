@@ -1,7 +1,7 @@
 <?php
 return [
-    'db_host' => 'localhost',
-    'db_name' => 'simple_auth_dashboard',
-    'db_user' => 'root',
-    'db_pass' => ''
+    'db_host' => 'host',
+    'db_name' => 'dbname',
+    'db_user' => 'dbuser',
+    'db_pass' => 'dbpass'
 ];
